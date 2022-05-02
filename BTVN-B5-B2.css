@@ -1,0 +1,33 @@
+*{
+    margin: 0 auto;
+}
+code {
+    background: #2db34a;
+    border-radius: 6px;
+    color: #fff;
+    padding: 24px 15px;
+    text-align: center;
+    display: block;
+    margin: 30px;
+
+  }
+  header{
+ 
+  }
+  section{
+    display: inline-block;
+    width: 30%;
+   
+    
+  }
+  aside,
+  footer {
+    margin: 0 1.5% 24px 1.5%;
+  }
+  section {
+  }
+  footer {
+    margin-bottom: 0;
+  }
+
+ 
